@@ -1,0 +1,66 @@
+{
+    "soccer" :{
+        "name": "Soccer",
+        "subscriber": "10000",
+        "description": "this is the game of legend",
+        "posts":[
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls"
+            },
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls"
+            },
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls"
+            }
+        ]
+    },
+
+    "chicken" :{
+        "name": "Chicken",
+        "subscriber": "20000",
+        "description": "this is the dish of eating",
+        "posts":[
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls",
+                "img": "https://static.vecteezy.com/system/resources/thumbnails/002/047/580/small/animal-illustration-with-cute-little-dog-vector.jpg"
+            },
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls",
+                "img": "https://image.shutterstock.com/image-vector/cute-card-kawaii-style-lovely-260nw-2159290829.jpg"
+            },
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls",
+                "img":  "https://image.shutterstock.com/image-vector/cute-card-kawaii-style-lovely-260nw-2159290829.jpg"
+            }
+        ]
+    },
+
+    "mightyharvest" :{
+        "name": "Mightyharvest",
+        "subscriber": "30000",
+        "description": "this is the group of small objects",
+        "posts":[
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls",
+                "img": "https://a10.gaanacdn.com/gn_img/song/10q3Zj1352/q3Z6vPwA35/size_m_1603962153.webp" 
+            },
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls"
+            },
+            {
+                "title": "lorem kdsjfhask sdfhasdhfo sidhflsjdf islhdflkajsdf sdlfjlskdjfsflsdiofe slfoisjdf",
+                "author": "hkdslf sldjfls",
+                "img": "https://a10.gaanacdn.com/gn_img/song/10q3Zj1352/q3Z6vPwA35/size_m_1603962153.webp"
+            }
+        ]
+    }
+}
